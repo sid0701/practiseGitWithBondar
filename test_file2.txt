@@ -1,3 +1,1 @@
-this is a new message
-
-this is a second phrase
+i am creating a totally new file
