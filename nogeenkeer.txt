@@ -1,1 +1,1 @@
-dit is een text file om nog een keer de git te oefenen
+dit is een wijziging die tweede is doorgevoerd
